@@ -680,7 +680,7 @@ h3 {
   height: 30px;
   border-radius: 50%;
   background: #ffffff;
-  border: 1px solid black;
+  border: 1px solid rgba(0, 0, 0, 0.1);
   cursor: pointer;
   padding: 6px;
 }
@@ -697,10 +697,7 @@ h3 {
   width: 11px;
   height: 11px;
 }
-/* .svg-close:hover,
-.svg-close:focus {
-  color: var(--accent-color);
-} */
+
 /****** Форма в модальном окне ******/
 
 .form {
